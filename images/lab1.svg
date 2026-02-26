@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160">
+  <rect width="240" height="160" fill="#eef5ff"/>
+  <rect x="20" y="40" width="80" height="60" fill="#b0d4ff" rx="6"/>
+  <rect x="140" y="40" width="80" height="60" fill="#cfe8d8" rx="6"/>
+  <text x="120" y="130" font-size="14" text-anchor="middle" fill="#333">Lab Photo 1</text>
+</svg>
